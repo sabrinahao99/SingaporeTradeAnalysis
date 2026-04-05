@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#rshiny-app",
+    "href": "index.html#rshiny-app",
+    "title": "Singapore Trade Partners Analysis",
+    "section": "",
+    "text": "RSHINY APP\n\n\nExplore the interactive dashboard through key analytical modules. Click any preview to open the full Shiny app.\n\n\n\nALL HOME TIME-BASED FORECAST MAP CLUSTER\n\n\n\n\n\nHome / Introduction\n\n\nProject overview, trade context, and statistical summary tables.\n\n\n\n\n\nTime-Based Analysis\n\n\nExplore temporal trade patterns and long-term movement across partner countries.\n\n\n\n\n\nForecast\n\n\nInspect projected trade trends and future movement patterns.\n\n\n\n\n\nGlobal Trade Map\n\n\nVisualise Singapore’s trade network and geographic distribution.\n\n\n\n\n\nCluster Analysis\n\n\nCompare countries based on similarity in time-series trade behaviour.\n\n\n\n\n Launch RShiny App"
+  },
+  {
+    "objectID": "index.html#project-journey",
+    "href": "index.html#project-journey",
+    "title": "Singapore Trade Partners Analysis",
+    "section": "Project Journey",
+    "text": "Project Journey\n\nProposal and meeting records that document the evolution of the project.\n\n\n\n\nProposal\n📄\nInitial project scope, motivation, and analytical plan.\nOpen\n\n\n\nMinutes 1\n📝\nInitial discussion on dataset scope and analytical direction.\nOpen\n\n\n\nMinutes 2\n📝\nMethod refinement after professor feedback and DTW update.\nOpen\n\n\n\nMinutes 3\n📝\nFinal integration, UI/UX polishing, and deployment planning.\nOpen"
+  },
+  {
+    "objectID": "index.html#team",
+    "href": "index.html#team",
+    "title": "Singapore Trade Partners Analysis",
+    "section": "Team",
+    "text": "Team\n\nThe project was developed collaboratively, with each member contributing to a different analytical component.\n\n\n\n\n\n\nHao Zhiyi\nMITB AI track\n\n\n\n\n\n\nWu Yanjie\nMITB DT track\n\n\n\n\n\n\nFang Yu\nMITB AI track"
+  },
+  {
+    "objectID": "index.html#poster",
+    "href": "index.html#poster",
+    "title": "Singapore Trade Partners Analysis",
+    "section": "",
+    "text": "POSTER\n\nOne glance view of the entire project"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Singapore Trade Partners Analysis",
+    "section": "",
+    "text": "CONTACT US\n\n\nIf you have any feedback, drop us a note!\n\n\n\n\n\n\n\n\nName\n\n\nEmail\n\n\nMessage\n\n\nSEND"
+  },
+  {
     "objectID": "Proposal.html",
     "href": "Proposal.html",
     "title": "Project Proposal",
@@ -61,19 +103,5 @@
     "title": "Project Proposal",
     "section": "Confirmatory Data Analysis",
     "text": "Confirmatory Data Analysis\n\nThis tab presents the confirmatory data analysis results to statistically examine the patterns observed in the exploratory analysis. It allows users to compare trade values across categories, countries, and months.\nImport vs Export Distribution: Compares the distributions of import and export trade values using violin and box plots.\nTrade Value by Country: Displays the distribution of trade values across different countries using boxplots.\nTrade Balance Trend: Shows the relationship between trade balance and time using a scatter plot with a regression line.\nMonthly Trade Comparison: Compares trade values across months to examine whether trade varies significantly during the year."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Singapore Trade Partners Analysis",
-    "section": "",
-    "text": "Welcome\nWelcome to our project website on Singapore’s Import and Export Trading Partners.\nThis project uses R package and Shinyapp to explore Singapore’s trade relationships with major partner countries. Our goal is to provide a clearer and more engaging understanding of Singapore’s international trade landscape."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
